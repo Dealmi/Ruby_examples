@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"ruby.useBundler": true,
+		"ruby.useLanguageServer": true,
+		"ruby.intellisense": "rubyLocate",
+		"ruby.codeCompletion": "rcodetools",
+		"code-runner.clearPreviousOutput": true,
+		"ruby.linter.run": "onSave",
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#ff4322",
+			"activityBar.activeBorder": "#00600e",
+			"activityBar.background": "#ff4322",
+			"activityBar.foreground": "#e7e7e7",
+			"activityBar.inactiveForeground": "#e7e7e799",
+			"activityBarBadge.background": "#00600e",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"sash.hoverBorder": "#ff4322",
+			"statusBar.background": "#ee2400",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#ff4322",
+			"statusBarItem.remoteBackground": "#ee2400",
+			"statusBarItem.remoteForeground": "#e7e7e7",
+			"titleBar.activeBackground": "#ee2400",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveBackground": "#ee240099",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"peacock.color": "#EE2400",
+		"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+		"editor.comments.ignoreEmptyLines": false,
+		"editor.comments.insertSpace": false
+	}
+}
